@@ -1,0 +1,14 @@
+/Users/maksimblohin/prac2csharp/prac2sharp/bin/Debug/net9.0/prac2sharp
+/Users/maksimblohin/prac2csharp/prac2sharp/bin/Debug/net9.0/prac2sharp.deps.json
+/Users/maksimblohin/prac2csharp/prac2sharp/bin/Debug/net9.0/prac2sharp.runtimeconfig.json
+/Users/maksimblohin/prac2csharp/prac2sharp/bin/Debug/net9.0/prac2sharp.dll
+/Users/maksimblohin/prac2csharp/prac2sharp/bin/Debug/net9.0/prac2sharp.pdb
+/Users/maksimblohin/prac2csharp/prac2sharp/obj/Debug/net9.0/prac2sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimblohin/prac2csharp/prac2sharp/obj/Debug/net9.0/prac2sharp.AssemblyInfoInputs.cache
+/Users/maksimblohin/prac2csharp/prac2sharp/obj/Debug/net9.0/prac2sharp.AssemblyInfo.cs
+/Users/maksimblohin/prac2csharp/prac2sharp/obj/Debug/net9.0/prac2sharp.csproj.CoreCompileInputs.cache
+/Users/maksimblohin/prac2csharp/prac2sharp/obj/Debug/net9.0/prac2sharp.dll
+/Users/maksimblohin/prac2csharp/prac2sharp/obj/Debug/net9.0/refint/prac2sharp.dll
+/Users/maksimblohin/prac2csharp/prac2sharp/obj/Debug/net9.0/prac2sharp.pdb
+/Users/maksimblohin/prac2csharp/prac2sharp/obj/Debug/net9.0/prac2sharp.genruntimeconfig.cache
+/Users/maksimblohin/prac2csharp/prac2sharp/obj/Debug/net9.0/ref/prac2sharp.dll
