@@ -38,7 +38,7 @@ internal class Program
                     Task4();
                     break;
                 case "5":
-                    Console.WriteLine("Task5 пока не реализован.");
+                    Task5();
                     break;
                 case "6":
                     Task6();
